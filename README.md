@@ -1,10 +1,15 @@
 # Olá! Eu sou o Yury 👋
 
-💻 Profissional de TI  
-🎓 Cursando Análise e Desenvolvimento de Sistemas  
+💻 Profissional de TI | 🎓 Cursando Análise e Desenvolvimento de Sistemas  
 📍 Rio de Janeiro – Brasil  
-🛠️ Tecnologias: Python, Git, GitHub, lógica de programação  
-📫 LinkedIn: [linkedin.com/in/yury-figueiredo-23309262](https://www.linkedin.com/in/yury-figueiredo-23309262)
+
+---
+
+## 🛠️ Tecnologias
+
+- Python  
+- Git / GitHub  
+- Lógica de Programação  
 
 ---
 
@@ -13,13 +18,20 @@
 Atuo na área de tecnologia e estou sempre em busca de novos desafios e aprendizados.  
 Tenho interesse em desenvolvimento back-end, automações e projetos que envolvam lógica e organização.
 
-Este perfil reúne projetos e estudos feitos com foco em aprendizado contínuo.
+Este perfil reúne projetos e estudos focados em aprendizado contínuo.
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em destaque
 
-- Repositório de exemplo com lógica de conversão de moedas, gerador de senhas e outros exercícios simples para praticar Python.
+- Repositório com lógica de conversão de moedas, gerador de senhas e exercícios simples para praticar Python.  
+[Confira aqui](https://github.com/yuryfigueiredo/repositorio-exemplo) *(adicione o link correto do projeto)*
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/yury-figueiredo-23309262)
 
 ---
 
