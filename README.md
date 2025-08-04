@@ -25,7 +25,7 @@ Este perfil reúne projetos e estudos focados em aprendizado contínuo.
 ## 📌 Projetos em destaque
 
 - Repositório com lógica de conversão de moedas, gerador de senhas e exercícios simples para praticar Python.  
-[Confira aqui](https://github.com/yuryfigueiredo/repositorio-exemplo) *(adicione o link correto do projeto)*
+[Confira aqui](https://github.com/yuryfigueiredo/todo-list/blob/main/todo.py) *(adicione o link correto do projeto)*
 
 ---
 
