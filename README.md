@@ -24,8 +24,8 @@ Este perfil reúne projetos e estudos focados em aprendizado contínuo.
 
 ## 📌 Projetos em destaque
 
-- Repositório com um programa lista de tarefas.  
-[Confira aqui](https://github.com/yuryfigueiredo/todo-list/blob/main/todo.py) *(adicione o link correto do projeto)*
+- Repositório com um robô de buscas de preços.  
+[Confira aqui]([https://github.com/yuryfigueiredo/todo-list/blob/main/todo.py](https://github.com/yuryfigueiredo/radar-precos)) *(adicione o link correto do projeto)*
 
 ---
 
